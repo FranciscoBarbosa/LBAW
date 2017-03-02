@@ -471,10 +471,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-<!--- household --->
-<!-- //footer 
+<!--- household -->
+<!-- //footer -->
 <?php include('footer.php'); ?>
-<!-- //footer
+<!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>

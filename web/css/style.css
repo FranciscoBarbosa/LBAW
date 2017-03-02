@@ -372,11 +372,18 @@ ul.multi-column-dropdown h6 {
 	font-size:14px;
 	text-align: center;
 }
-.agile_top_brand_left_grid1 h4,.agileinfo_single_right_snipcart h4{
+.agile_top_brand_left_grid1 p,.agileinfo_single_right_snipcart p{
 	font-weight:600;
 	font-size:1em;
 	color:#212121;
 	text-align: center;
+}
+
+.agileinfo_single_right_snipcart h4,.agile_top_brand_left_grid1 h4{
+    font-weight:300;
+    font-size:0.8em;
+    color:#212121;
+    text-align: center;
 }
 .agile_top_brand_left_grid1 h4 span,.agileinfo_single_right_snipcart h4 span{
 	font-weight:300;

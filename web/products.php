@@ -44,12 +44,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- breadcrumbs -->
 	<?php include('breadcrumbs.php'); ?>
 <!-- //breadcrumbs -->
-- products --->
+<!-- products -->
 	<div class="products">
 		<div class="container">
 			<div class="col-md-4 products-left">
 				<div class="categories">
-					<h2>Categories</h2>
+					<h2>Categories</h2> 
 					<ul class="cate">
 						<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fruits And Vegetables</a></li>
 							<ul>

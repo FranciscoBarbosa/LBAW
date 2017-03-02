@@ -5,9 +5,9 @@
 					<h3>Contact</h3>
 
 					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>1234k Avenue, 4th block, <span>New York City.</span></li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">info@example.com</a></li>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 567</li>
+						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>1234k Avenida da Boavista, <span>Porto.</span></li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:BidIt@gmail.com">BidIt@gmail.com</a></li>
+						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+351 255 781 300</li>
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
@@ -15,19 +15,21 @@
 					<ul class="info">
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="about.php">About Us</a></li>
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="contact.php">Contact Us</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="short-codes.php">Short Codes</a></li>
+					<!--<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="short-codes.php">Short Codes</a></li>-->						
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="faq.php">FAQ's</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="products.php">Special Products</a></li>
+						<!-- <li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="products.php">Special Products</a></li> -->
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
 					<h3>Category</h3>
 					<ul class="info">
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="groceries.php">Groceries</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="household.php">Household</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="personalcare.php">Personal Care</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="packagedfoods.php">Packaged Foods</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="beverages.php">Beverages</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="groceries.php">Art</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="household.php">Jewelry</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="personalcare.php">Asian Antiques</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="packagedfoods.php">Furniture</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="beverages.php">Collectibles</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="beverages.php">Home & Garden</a></li>
+
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
@@ -48,7 +50,7 @@
 		<div class="footer-copy">
 
 			<div class="container">
-				<p>© 2017 Super Market. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+				<p>© 2017 Bit It. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
 			</div>
 		</div>
 

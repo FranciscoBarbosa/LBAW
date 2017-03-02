@@ -44,7 +44,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- breadcrumbs -->
 	<?php include('breadcrumbs.php'); ?>
 <!-- //breadcrumbs -->
-- personalcare --->
+<!-- personalcare -->
 	<div class="products">
 		<div class="container">
 		<div class="col-md-4 products-left">

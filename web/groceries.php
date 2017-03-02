@@ -44,7 +44,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- breadcrumbs -->
 	<?php include('breadcrumbs.php'); ?>
 <!-- //breadcrumbs -->
-- groceries --->
+<!-- groceries -->
 	<div class="products">
 		<div class="container">
 			<div class="col-md-4 products-left">
@@ -472,8 +472,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-<!--- groceries --->
-<!-- //footer 
+<!--- groceries -->
+<!-- //footer -->
 <?php include('footer.php'); ?>
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->

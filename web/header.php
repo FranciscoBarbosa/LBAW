@@ -3,7 +3,7 @@
 	<div class="agileits_header">
 		<div class="container">
 			<div class="w3l_offers">
-				<p>SALE UP TO 70% OFF. USE CODE "SALE70%" . <a href="products.php">SHOP NOW</a></p>
+				<p>BE THE FIRST TO BID ON ITEMS YOU'RE SEARCHING FOR  <a href="products.php">BID NOW !</a></p>
 			</div>
 			<div class="agile-login">
 				<ul>
@@ -28,12 +28,12 @@
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Order online or call us : (+0123) 234 567</li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>Call us : (+0351) 255 781 300</li>
 
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">super Market</a></h1>
+				<h1><a href="index.php">Bid It</a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="#" method="post">

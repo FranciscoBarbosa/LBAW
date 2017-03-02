@@ -44,24 +44,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- breadcrumbs -->
 	<?php include('breadcrumbs.php'); ?>
 <!-- //breadcrumbs -->
-- pakagedfoods --->
+<!-- pakagedfoods -->
 	<div class="products">
 		<div class="container">
 			<div class="col-md-4 products-left">
 				<div class="categories">
 					<h2>Categories</h2>
 					<ul class="cate">
-						<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fruits And Vegetables</a></li>
-							<ul>
+						<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>More Detailed Categories here</a></li>
+							<!-- <ul>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Cuts & Sprouts</a></li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Flowers</a></li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fresh Herbs & Seasonings</a></li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fresh Vegetables</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>International Vegetables</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Organic Fruits & Vegetables</a></li>
-							</ul>
+							</ul> 
 						<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Grocery & Staples</a></li>
-							<ul>
+							 <ul>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Dals & Pulses</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Dry Fruits</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Edible Oils & Ghee</a> </li>
@@ -70,9 +70,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Organic Staples</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Rice & Rice Products</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Salt, Sugar & Jaggery</a></li>
-							</ul>
+							</ul> 
 						<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>PersonalCare</a></li>
-							<ul>
+							 <ul>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Baby Care</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Cosmetics</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Deos & Perfumes</a> </li>
@@ -81,7 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Oral Care</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Personal Hygiene</a> </li>
 								<li><a href="products.php"><i class="fa fa-arrow-right" aria-hidden="true"></i>Shaving Needs</a></li>
-							</ul>
+							</ul> -->
 					</ul>
 				</div>
 			</div>
@@ -120,7 +120,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img title=" " alt=" " src="images/pf9.png"></a>
 												<p>Sampann-toor-dal</p>
-												<h4>$35.99 <span>$55.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -134,7 +135,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -156,7 +157,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img title=" " alt=" " src="images/pf1.png"></a>
 												<p>Parryss-sugar</p>
-												<h4>$30.99 <span>$45.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -170,7 +172,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -195,7 +197,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img src="images/pf2.png" alt=" " class="img-responsive"></a>
 												<p>Saffola-gold</p>
-												<h4>$80.99 <span>$105.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -209,7 +212,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -234,7 +237,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img title=" " alt=" " src="images/pf3.png"></a>
 												<p>Sampann-toor-dal</p>
-												<h4>$35.99 <span>$55.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -248,7 +252,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -270,7 +274,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img title=" " alt=" " src="images/pf4.png"></a>
 												<p>Parryss-sugar</p>
-												<h4>$30.99 <span>$45.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -284,7 +289,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -309,7 +314,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											<div class="snipcart-thumb">
 												<a href="single.php"><img src="images/pf5.png" alt=" " class="img-responsive"></a>
 												<p>Saffola-gold</p>
-												<h4>$80.99 <span>$105.00</span></h4>
+												<h4>highest bid:X</h4>
+												<h4>remaining time:X</h4>
 											</div>
 											<div class="snipcart-details top_brand_home_details">
 												<form action="#" method="post">
@@ -323,7 +329,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 														<input type="hidden" name="currency_code" value="USD">
 														<input type="hidden" name="return" value=" ">
 														<input type="hidden" name="cancel_return" value=" ">
-														<input type="submit" name="submit" value="Add to cart" class="button">
+														<input type="submit" name="submit" value="Bid Now" class="button">
 													</fieldset>
 												</form>
 											</div>
@@ -472,8 +478,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-<!--- pakagedfoods --->
-<!-- //footer 
+<!--- pakagedfoods -->
+<!-- //footer -->
 <?php include('footer.php') ?>
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
