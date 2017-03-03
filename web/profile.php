@@ -41,20 +41,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- navigation -->
 	<?php include('navigation.php'); ?>
 <!-- //navigation -->
+<!-- breadcrumbs -->
+  <?php include('breadcrumbs.php'); ?>
+<!-- //breadcrumbs -->
 <!--profile-->
+
 <div class="container">
-    <h1>User Profile</h1>
+ 
+    <h1 class="userp">User Profile</h1>
   	<hr>
+    <style>
+    .userp{
+      padding-top:60px;
+      text-align: center;
+      margin-bottom: 60px;
+    }
+</style>
 	<div class="row">
       <!-- left column -->
-      <div class="col-md-3">
-        <div class="text-center">
-          <img src="//placehold.it/100" class="avatar img-circle" alt="avatar">
-          <h6>Upload a different photo...</h6>
-          
-          <input type="file" class="form-control">
-        </div>
-      </div>
+      
       
       <!-- edit form column -->
       <div class="col-md-9 personal-info">        
@@ -62,38 +67,50 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           <div class="form-group">
             <label class="col-lg-3 control-label">First name:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="">
+              <input class="form-control" type="text" value="first name">
             </div>
           </div>
           <div class="form-group">
             <label class="col-lg-3 control-label">Last name:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="">
+              <input class="form-control" type="text" value="last name">
             </div>
           </div>
           <div class="form-group">
             <label class="col-lg-3 control-label">Email:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="">
+              <input class="form-control" type="text" value="email">
             </div>
           </div>
           
           <div class="form-group">
             <label class="col-md-3 control-label">Username:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="">
+              <input class="form-control" type="text" value="Username">
             </div>
           </div>
           <div class="form-group">
-            <label class="col-md-3 control-label">Password:</label>
+            <label class="col-md-3 control-label">Address:</label>
             <div class="col-md-8">
-              <input class="form-control" type="password" value="">
+              <input class="form-control" type="text" value="Address">
             </div>
           </div>
           <div class="form-group">
-            <label class="col-md-3 control-label">Confirm password:</label>
+            <label class="col-md-3 control-label">Country:</label>
             <div class="col-md-8">
-              <input class="form-control" type="password" value="">
+              <input class="form-control" type="text" value="Country">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-md-3 control-label">City:</label>
+            <div class="col-md-8">
+              <input class="form-control" type="text" value="City">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-md-3 control-label">ZipCode:</label>
+            <div class="col-md-8">
+              <input class="form-control" type="text" value="ZipCode">
             </div>
           </div>
           <div class="form-group">

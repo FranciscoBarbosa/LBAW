@@ -14,7 +14,7 @@
               <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php" class="act">Home</a></li>
                 <!-- Mega Menu -->
-                <li><a href="groceries.php">Art</a>
+                <li><a href="furniture.php">Art</a>
                   <!-- <ul class="dropdown-menu multi-column columns-3">
                     <div class="row">
                       <div class="multi-gd-img">
@@ -32,7 +32,7 @@
                     </div>
                   </ul> -->
                 </li>
-                <li><a href="household.php" >Jewelry</a>
+                <li><a href="furniture.php">Jewelry</a>
                   <!-- <ul class="dropdown-menu multi-column columns-3">
                     <div class="row">
                       <div class="multi-gd-img">
@@ -51,7 +51,7 @@
                     </div>
                   </ul> -->
                 </li>
-                <li><a href="personalcare.php">Asian Antiques</a>
+                <li><a href="furniture.php"href="furniture.php">Asian Antiques</a>
                   <!-- <ul class="dropdown-menu multi-column columns-3">
                     <div class="row">
                       <div class="multi-gd-img">
@@ -69,7 +69,7 @@
                     </div>
                   </ul> -->
                 </li>
-                <li><a href="packagedfoods.php">Furniture</a>
+                <li><a href="furniture.php">Furniture</a>
                   <!-- <ul class="dropdown-menu multi-column columns-3">
                     <div class="row">
                       <div class="multi-gd-img">
@@ -89,7 +89,7 @@
                   </ul> -->
                 </li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Collectibles<b class="caret"></b></a>
+                  <a href="furniture.php" class="dropdown-toggle" data-toggle="dropdown">Collectibles<b class="caret"></b></a>
                   <!-- <ul class="dropdown-menu multi-column columns-3">
                     <div class="row">
                       <div class="multi-gd-img">
@@ -107,9 +107,9 @@
                     </div>
                   </ul> -->
                 </li>
-                <li><a href="offers.php">Home & Garden</a></li>
+                <li><a href="furniture.php">Home & Garden</a></li>
                 <!--falta criar pagina para os que estao a terminar-->   
-                <li><a href="offers.php">Ending</a></li>
+                <li><a href="furniture.php">Ending</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
