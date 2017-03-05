@@ -114,7 +114,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<figure>
 										<div class="snipcart-item block">
 											<div class="snipcart-thumb">
-												<a href="single.php"><img title=" " alt=" " src="images/pf2.png"></a>
+												<a href="single.php"><img title=" " alt=" " src="images/pf9.png"></a>
 												<p>Sampann-toor-dal</p>
 												<h4>highest bid:X</h4>
 												<h4>remaining time:X</h4>
@@ -151,7 +151,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<figure>
 										<div class="snipcart-item block">
 											<div class="snipcart-thumb">
-												<a href="single.php"><img title=" " alt=" " src="images/pf5.png"></a>
+												<a href="single.php"><img title=" " alt=" " src="images/pf1.png"></a>
 												<p>Parryss-sugar</p>
 												<h4>highest bid:X</h4>
 												<h4>remaining time:X</h4>
@@ -191,7 +191,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<figure>
 										<div class="snipcart-item block">
 											<div class="snipcart-thumb">
-												<a href="single.php"><img src="images/pf8.png" alt=" " class="img-responsive"></a>
+												<a href="single.php"><img src="images/pf2.png" alt=" " class="img-responsive"></a>
 												<p>Saffola-gold</p>
 												<h4>highest bid:X</h4>
 												<h4>remaining time:X</h4>

@@ -59,68 +59,86 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </style>
 	<div class="row">
       <!-- left column -->
-      
-      
       <!-- edit form column -->
       <div class="col-md-9 personal-info">        
         <form class="form-horizontal" role="form">
           <div class="form-group">
             <label class="col-lg-3 control-label">First name:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="first name">
+<!--               <input class="form-control" type="text" value="first name">
+ -->           
+            <p class="form-control">first name</p> 
             </div>
           </div>
           <div class="form-group">
             <label class="col-lg-3 control-label">Last name:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="last name">
+<!--               <input class="form-control" type="text" value="last name">
+ -->              <p class="form-control">Last name</p> 
             </div>
           </div>
           <div class="form-group">
             <label class="col-lg-3 control-label">Email:</label>
             <div class="col-lg-8">
-              <input class="form-control" type="text" value="email">
+<!--               <input class="form-control" type="text" value="email">
+ -->                          <p class="form-control">example@hotmail.com</p> 
+
             </div>
           </div>
           
           <div class="form-group">
             <label class="col-md-3 control-label">Username:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="Username">
+<!--               <input class="form-control" type="text" value="Username">
+ -->                          <p class="form-control">Username</p> 
+ 
             </div>
           </div>
           <div class="form-group">
             <label class="col-md-3 control-label">Address:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="Address">
+<!--               <input class="form-control" type="text" value="Address">
+ -->            <p class="form-control">Address</p> 
             </div>
           </div>
           <div class="form-group">
             <label class="col-md-3 control-label">Country:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="Country">
+<!--               <input class="form-control" type="text" value="Country">
+ -->                        <p class="form-control">Country</p> 
             </div>
           </div>
           <div class="form-group">
             <label class="col-md-3 control-label">City:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="City">
+<!--               <input class="form-control" type="text" value="City">
+ -->                       <p class="form-control">City</p> 
             </div>
           </div>
           <div class="form-group">
             <label class="col-md-3 control-label">ZipCode:</label>
             <div class="col-md-8">
-              <input class="form-control" type="text" value="ZipCode">
+<!--               <input class="form-control" type="text" value="ZipCode">
+ -->                        <p class="form-control">XXXX-XXX</p> 
             </div>
           </div>
           <div class="form-group">
+            <label class="col-md-3 control-label"></label>
+            <div class="col-md-8">
+              <input type="button" class="btn btn-primary" class="btn-ban" value="Ban">
+
+              <span></span>
+            </div>
+          </div>
+
+         <!--  <div class="form-group">
             <label class="col-md-3 control-label"></label>
             <div class="col-md-8">
               <input type="button" class="btn btn-primary" value="Save Changes">
               <span></span>
               <input type="reset" class="btn btn-default" value="Cancel">
             </div>
-          </div>
+          </div> -->
         </form>
       </div>
   </div>
