@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Super Market an Ecommerce Online Shopping Category Flat Bootstrap Responsive Website Template | Single Page :: w3layouts</title>
+<title>Single</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -46,10 +46,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="products">
 		<div class="container">
 			<div class="agileinfo_single">
-
-				<div class="col-md-4 agileinfo_single_left">
+			<div class="col-md-4">
+				<div class="agileinfo_single_left">
 					<img id="example" src="images/si1.jpg" alt=" " class="img-responsive">
 				</div>
+<!-- 					<p class="report"> Report Auction </p>	
+ -->			</div>			
 				<div class="col-md-8 agileinfo_single_right">
 				<h2>KHARAMORRA Khakra - Hariyali</h2>
 				<!-- 	<div class="rating1">
@@ -102,14 +104,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<input type="hidden" name="return" value=" ">
 									<input type="hidden" name="cancel_return" value=" "> -->
 									
-									<input class="form-control" type="text" value="amount">
+									<!-- <input class="form-control" type="text" value="amount">
 
 									<input type="submit" name="submit" value="Bid" class="button">
 								</fieldset>
 								</div>
 								 <div class="bot-row">
-									<input type="submit" name="submit" value="Delete Auction" class="button">
-								</div>
+									<input type="submit" name="submit" value="Follow" class="button">
+								</div> -->
+									<input type="submit" name="submit" value="Login to bid" class="button">
+
 							</form>
 						</div>
 						</div>
@@ -131,7 +135,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- 	comments-->
  <link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css">
-<div class="container">
+<!-- <div class="container">
 	<div class="row">
 		<h3>Commentaries</h3>
 	</div>
@@ -143,23 +147,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="status-upload">
 									<form>
 										<textarea placeholder="Leave your opinion" ></textarea>
-										<!-- <ul>
-											<li><a title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Audio"><i class="fa fa-music"></i></a></li>
-											<li><a title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Video"><i class="fa fa-video-camera"></i></a></li>
-											<li><a title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Sound Record"><i class="fa fa-microphone"></i></a></li>
-											<li><a title="" data-toggle="tooltip" data-placement="bottom" data-original-title="Picture"><i class="fa fa-picture-o"></i></a></li>
-										</ul> -->
+										
 										<button type="submit" class="btn btn-success"><i class="fa fa-share"></i> Share</button>
 									</form>
-								</div><!-- Status Upload  -->
-							</div><!-- Widget Area -->
+								</div>
+							</div>
 						</div>
         
     </div>
-</div>
+</div> -->
 <style>
 .btn.btn-success{
 	background-color: #008CBA;
+}
+.report{
+	color:#d14;
 }
 .widget-area.blank {
 background: none repeat scroll 0 0 rgba(0, 0, 0, 0);

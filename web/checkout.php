@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Super Market an Ecommerce Online Shopping Category Flat Bootstrap Responsive Website Template | Checkout :: w3layouts</title>
+<title>checkout</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -42,8 +42,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- //navigation -->
 <!-- breadcrumbs -->
-	<?php include('breadcrumbs.php'); ?>
-<!-- //breadcrumbs -->
+<!-- breadcrumbs -->
+<div class="breadcrumbs">
+  <div class="container">
+    <ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
+      <li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+      <li class="active">Checkout</li>
+    </ol>
+  </div>
+</div>
+<!-- //breadcrumbs --><!-- //breadcrumbs -->
 <!-- checkout -->
 	<div class="checkout">
 		<div class="container">

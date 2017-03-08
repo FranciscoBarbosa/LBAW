@@ -47,12 +47,6 @@
 			</div>
 		</div>
 
-		<div class="footer-copy">
-
-			<div class="container">
-				<p>© 2017 Bit It. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-			</div>
-		</div>
 
 	</div>
 	<div class="footer-botm">
