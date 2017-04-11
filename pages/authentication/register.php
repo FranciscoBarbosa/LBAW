@@ -5,8 +5,9 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
+<html>
 <head>
-<title>Login</title>
+<title>Register</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -15,10 +16,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/../css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- font-awesome icons -->
-<link href="css/font-awesome.css" rel="stylesheet">
+<link href="/../css/font-awesome.css" rel="stylesheet">
 <!-- //font-awesome icons -->
 <!-- js -->
 <script src="js/jquery-1.11.1.min.js"></script>
@@ -37,39 +38,45 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<?php include('header.php'); ?>
 <!-- //header -->
 <!-- navigation -->
-	<?php include('navigation.php');?>
-
+	<?php include('navigation.php'); ?>
 <!-- //navigation -->
 <!-- breadcrumbs -->
-<div class="breadcrumbs">
-  <div class="container">
-    <ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
-      <li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-      <li class="active">Login</li>
-    </ol>
-  </div>
-</div>
+	<?php include('breadcrumbs.php'); ?>
 <!-- //breadcrumbs -->
-<!-- login -->
-	<div class="login">
+<!-- register -->
+	<div class="register">
 		<div class="container">
-			<h2>Login Form</h2>
-
-			<div class="login-form-grids animated wow slideInUp" data-wow-delay=".5s">
-				<form>
+			<h2>Register Here</h2>
+			<div class="login-form-grids">
+				<h5>profile information</h5>
+				<form action="#" method="post">
+					<input type="text" placeholder="First Name..." required=" " >
+					<input type="text" placeholder="Last Name..." required=" " >
+				</form>
+				<div class="register-check-box">
+					<div class="check">
+						<label class="checkbox"><input type="checkbox" name="checkbox"><i> </i>Subscribe to Newsletter</label>
+					</div>
+				</div>
+				<h6>Login information</h6>
+					<form action="#" method="post">
 					<input type="email" placeholder="Email Address" required=" " >
 					<input type="password" placeholder="Password" required=" " >
-					<div class="forgot">
-						<a href="#">Forgot Password?</a>
+					<input type="password" placeholder="Password Confirmation" required=" " >
+					<div class="register-check-box">
+						<div class="check">
+							<label class="checkbox"><input type="checkbox" name="checkbox"><i> </i>I accept the terms and conditions</label>
+						</div>
 					</div>
-					<input type="submit" value="Login">
+					<input type="submit" value="Register">
 				</form>
 			</div>
-			<h4>For New People</h4>
-			<p><a href="registered.php">Register Here</a> (Or) go back to <a href="index.php">Home<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
+			<div class="register-home">
+				<a href="index.php">Home</a>
+			</div>
 		</div>
 	</div>
-<!-- //login -->
+<!-- //register -->
 <!-- //footer -->
 <?php include('footer.php'); ?>
 <!-- //footer -->
@@ -81,12 +88,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script src="js/scrolling-icon-start.js"></script>
 <!-- //here ends scrolling icon -->
 <script src="js/minicart.min.js"></script>
-<script src="js/scrolling-icon-end.js"></script>
+<script src="js/scrolling-icon-end.js"></script>s
 <!-- main slider-banner -->
 <script src="js/skdslider.min.js"></script>
 <link href="css/skdslider.css" rel="stylesheet">
 <script src="js/main-slider-banner.js"></script>
-
 <!-- //main slider-banner -->
 
 </body>
